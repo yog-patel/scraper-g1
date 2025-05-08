@@ -60,6 +60,19 @@ async function main() {
   "https://www.mvlempyr.com/novel/descent-of-the-phoenix---13-years-old-princess-consort",
   "https://www.mvlempyr.com/novel/destiny-games",
   "https://www.mvlempyr.com/novel/destroying-my-own-novel",
+      "https://www.mvlempyr.com/novel/destroying-my-own-world",
+  "https://www.mvlempyr.com/novel/detective-ghost-empress",
+  "https://www.mvlempyr.com/novel/deus-necros",
+  "https://www.mvlempyr.com/novel/deviant-no-longer-human",
+  "https://www.mvlempyr.com/novel/devil-slave-satan-system",
+  "https://www.mvlempyr.com/novel/devil-venerable-also-wants-to-know",
+  "https://www.mvlempyr.com/novel/devils-warmth",
+  "https://www.mvlempyr.com/novel/devouring-evolution-i-reborn-as-an-arctic-wolf",
+  "https://www.mvlempyr.com/novel/devouring-monarch-rebirth-of-the-profane-phoenix",
+  "https://www.mvlempyr.com/novel/devouring-the-heavens",
+  "https://www.mvlempyr.com/novel/di-wang-gong-lue",
+  "https://www.mvlempyr.com/novel/did-she-already-know-what-i-would-ask-her-for",
+  "https://www.mvlempyr.com/novel/dimension-system-sss-rank-talent-awakening",
       ];
 
     const browser = await launchBrowser();
